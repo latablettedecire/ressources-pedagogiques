@@ -58,4 +58,4 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 
 ## Divers
 
-- [OpenDyslexic](http://opendyslexic.org/)
+- [OpenDyslexic](http://opendyslexic.org/) (Une police d'écriture destinée à être lisible pour les dyslexiques, en donnant du "poids" à la base des lettres)
