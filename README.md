@@ -12,24 +12,28 @@ Juste une liste de ressources en ligne qui peuvent être utile. Y'a aussi bien d
 
 ### Suites éducatives libres & opensources
 
+Des ensembles de logiciels ludo-éducatif.
+
 - [AbulÉdu](http://www.abuledu.org/) – [(communauté)](http://abuledu-fr.org/)
 - [GCompris](http://gcompris.net/index-fr.html)
 - [KDE Education Project](https://edu.kde.org/)
 
 ### Logiciels pour les écoles
 
-- [libreoffice des écoles](http://libreofficedesecoles.free.fr/)
+- [libreoffice des écoles](http://libreofficedesecoles.free.fr/) – Libreoffice, avec des interfaces adaptées pour les différents cycles.
 
 ### Jeux vidéo pouvant être utile
 
-- [Minetest](http://www.minetest.net/) – ([Article de framasoft sur son utilisation](https://framablog.org/2016/09/01/minetest-interets-et-possibilites-pedagogiques/), [deuxième article](https://framablog.org/2016/09/01/framinetest-edu-laissez-microsoft-hors-de-portee-de-nos-enfants/))
+- [Minetest](http://www.minetest.net/) – ([Article de framasoft sur son utilisation](https://framablog.org/2016/09/01/minetest-interets-et-possibilites-pedagogiques/), [deuxième article](https://framablog.org/2016/09/01/framinetest-edu-laissez-microsoft-hors-de-portee-de-nos-enfants/)) — Un clone de minecraft, avec un travail éducatif fait autour grâce au projet Framinetest.
 
 ### Services/Outils en lignes
 
-- [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil)
-- [Babytwit](https://babytwit.fr/main/login)
+- [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) - Un "wikipédia" pour les enfants, utilisant un langage accessible au 8~11 ans, et surveillé de manière encore plus active que wikipédia.
+- [Babytwit](https://babytwit.fr/main/login) – Un Twitter pour enfant (qui va un jour changer de nom) et pour les classes, afin d'éviter les soucis de travailler directement sous Twitter.
 
 ### Distributions Linux
+
+Des systèmes d'éducations construits pour être utilisé dans des écoles, et adaptés à être utilisés par des enfants.
 
 - [Edubuntu](http://edubuntu.org/) – [(communauté francophones d'Ubuntu)](https://www.ubuntu-fr.org/)
 - [Primtux](http://primtux.fr/)
@@ -43,11 +47,11 @@ Juste une liste de ressources en ligne qui peuvent être utile. Y'a aussi bien d
 
 ### Ressources culturelles du Domaine Public
 
-- [Projet Gutemberg](http://www.gutenberg.org/wiki/FR_Principal)
-- [Ebooks libres et gratuits](http://www.ebooksgratuits.com/ebooks.php) – [Pack de ebooks à télécharger](http://www.ebooksgratuits.com/torrent.php)
+- [Projet Gutemberg](http://www.gutenberg.org/wiki/FR_Principal) — Des versions numériques de livres du domaine publique
+- [Ebooks libres et gratuits](http://www.ebooksgratuits.com/ebooks.php) – [Pack de ebooks à télécharger](http://www.ebooksgratuits.com/torrent.php) – Idem.
 - [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil)
 - [Wikilivres](https://fr.wikibooks.org/wiki/Accueil) – [Wikijunior](https://fr.wikibooks.org/wiki/Wikijunior)
-- [MusOpen](https://musopen.org/) (si vous voulez de la musique classique)
+- [MusOpen](https://musopen.org/) — Des enregistrements téléchargeable légalement de musique classique. Ça peut toujours servir ?
 
 ### Manuels scolaires 
 
@@ -58,4 +62,4 @@ Note : *Ils ne sont pas forcément à jour avec le nouveau programme !*
 
 ## Divers
 
-- [OpenDyslexic](http://opendyslexic.org/) (Une police d'écriture destinée à être lisible pour les dyslexiques, en donnant du "poids" à la base des lettres)
+- [OpenDyslexic](http://opendyslexic.org/) — Une police d'écriture destinée à être lisible pour les dyslexiques, en donnant du "poids" à la base des lettres
