@@ -30,6 +30,7 @@ Des ensembles de logiciels ludo-éducatif.
 
 - [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil) - Un "wikipédia" pour les enfants, utilisant un langage accessible au 8~11 ans, et surveillé de manière encore plus active que wikipédia.
 - [Babytwit](https://babytwit.fr/main/login) – Un Twitter pour enfant (qui va un jour changer de nom) et pour les classes, afin d'éviter les soucis de travailler directement sous Twitter.
+- [Liste des Framaservices](https://degooglisons-internet.org/liste) — Liste de services en lignes gratuits, éthiques et solidaires, par la société framasoft.
 
 ### Distributions Linux
 
