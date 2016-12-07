@@ -2,6 +2,10 @@
 
 Juste une liste de ressources en ligne qui peuvent être utile. Y'a aussi bien des logiciels que des ressources littéraires et tout. La liste sera mieux triée et complétée quand j'aurais plus de temps.
 
+## Nouvelle adresse
+
+La liste que vous voyez ici est dépassée, vous pouvez trouver la nouvelle liste à l'adresse suivante : https://framagit.org/latablettedecire/ressources-pedagogiques/blob/master/README.md
+
 ---
 
 [TOC]
