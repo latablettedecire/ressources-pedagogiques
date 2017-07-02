@@ -4,11 +4,7 @@ Juste une liste de ressources en ligne qui peuvent être utile. Y'a aussi bien d
 
 ## Nouvelle adresse
 
-La liste que vous voyez ici est dépassée, vous pouvez trouver la nouvelle liste à l'adresse suivante : https://framagit.org/latablettedecire/ressources-pedagogiques/blob/master/README.md
-
----
-
-[TOC]
+La liste que vous voyez ici est dépassée, et la nouvelle liste a été confiée à Kazhnuz, à [cette addresse](https://github.com/Kazhnuz/ressources-pedagogiques/tree/master). 
 
 ---
 
